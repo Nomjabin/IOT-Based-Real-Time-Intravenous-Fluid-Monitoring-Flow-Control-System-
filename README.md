@@ -14,9 +14,11 @@ This project focuses on developing an IoT-based system for real-time monitoring 
 - Flow rate measurement
 - Automated control mechanism
 - IoT-based monitoring system
+- 
+## Project Demonstration
 
-## Technologies Used
-(Add the actual hardware, software, sensors, and communication technologies used in your project.)
+Watch the project demonstration:
 
-## Project Documentation
-(Add your project report, circuit diagrams, code, and results here.)
+[![Watch Project Demo](https://img.youtube.com/vi/kT5HviwTPhY/0.jpg)](https://youtu.be/kT5HviwTPhY)
+
+[Click here to watch the full project demonstration](https://youtu.be/kT5HviwTPhY)
